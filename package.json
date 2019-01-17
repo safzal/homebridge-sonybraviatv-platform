@@ -1,16 +1,16 @@
 {
-  "_from": "homebridge-sonybraviatv",
-  "_id": "homebridge-sonybraviatv@0.0.7",
+  "_from": "homebridge-sonybraviatv-platfrom",
+  "_id": "homebridge-sonybraviatv-platfrom@0.0.1",
   "_inBundle": false,
   "_integrity": "sha1-bloAIpRVCF4BB/0AaZT74BpzSbs=",
-  "_location": "/homebridge-sonybraviatv",
+  "_location": "/homebridge-sonybraviatv-platfrom",
   "_phantomChildren": {},
   "_requested": {
     "type": "tag",
     "registry": true,
-    "raw": "homebridge-sonybraviatv",
-    "name": "homebridge-sonybraviatv",
-    "escapedName": "homebridge-sonybraviatv",
+    "raw": "homebridge-sonybraviatv-platfrom",
+    "name": "homebridge-sonybraviatv-platfrom",
+    "escapedName": "homebridge-sonybraviatv-platfrom",
     "rawSpec": "",
     "saveSpec": null,
     "fetchSpec": "latest"
@@ -20,14 +20,14 @@
   ],
   "_resolved": "https://registry.npmjs.org/homebridge-sonybraviatv/-/homebridge-sonybraviatv-0.0.7.tgz",
   "_shasum": "6e5a00229455085e0107fd006994fbe01a7349bb",
-  "_spec": "homebridge-sonybraviatv",
+  "_spec": "homebridge-sonybraviatv-platfrom",
   "_where": "/home/pi",
   "bugs": {
-    "url": "http://github.com/rwifall/homebridge-sonybraviatv/issues"
+    "url": "http://github.com/safzal/Homebridge-SonyBraviaTV-Platform/issues"
   },
   "bundleDependencies": false,
   "dependencies": {
-    "request": "2.49.x",
+    "request": "2.68.*",
     "wake_on_lan": "0.0.4"
   },
   "deprecated": false,
@@ -36,15 +36,15 @@
     "homebridge": ">=0.2.0",
     "node": ">=0.12.0"
   },
-  "homepage": "https://github.com/rwifall/homebridge-sonybraviatv#readme",
+  "homepage": "git:github.com/safzal/Homebridge-SonyBraviaTV-Platform.git#readme",
   "keywords": [
     "homebridge-plugin"
   ],
   "license": "MIT",
-  "name": "homebridge-sonybraviatv",
+  "name": "homebridge-sonybraviatv-platfrom",
   "repository": {
     "type": "git",
-    "url": "git://github.com/rwifall/homebridge-sonybraviatv.git"
+    "url": "git:github.com/safzal/Homebridge-SonyBraviaTV-Platform.git"
   },
-  "version": "0.0.7"
+  "version": "0.0.1"
 }
