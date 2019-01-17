@@ -1,0 +1,50 @@
+{
+  "_from": "homebridge-sonybraviatv",
+  "_id": "homebridge-sonybraviatv@0.0.7",
+  "_inBundle": false,
+  "_integrity": "sha1-bloAIpRVCF4BB/0AaZT74BpzSbs=",
+  "_location": "/homebridge-sonybraviatv",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "homebridge-sonybraviatv",
+    "name": "homebridge-sonybraviatv",
+    "escapedName": "homebridge-sonybraviatv",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/homebridge-sonybraviatv/-/homebridge-sonybraviatv-0.0.7.tgz",
+  "_shasum": "6e5a00229455085e0107fd006994fbe01a7349bb",
+  "_spec": "homebridge-sonybraviatv",
+  "_where": "/home/pi",
+  "bugs": {
+    "url": "http://github.com/rwifall/homebridge-sonybraviatv/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "request": "2.49.x",
+    "wake_on_lan": "0.0.4"
+  },
+  "deprecated": false,
+  "description": "Sony Bravia TV support for Homebridge: https://github.com/nfarina/homebridge",
+  "engines": {
+    "homebridge": ">=0.2.0",
+    "node": ">=0.12.0"
+  },
+  "homepage": "https://github.com/rwifall/homebridge-sonybraviatv#readme",
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "license": "MIT",
+  "name": "homebridge-sonybraviatv",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rwifall/homebridge-sonybraviatv.git"
+  },
+  "version": "0.0.7"
+}
